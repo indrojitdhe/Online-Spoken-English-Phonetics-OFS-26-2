@@ -1,6 +1,6 @@
 # Speaking Topics for Online Spoken English and Phonetics Course
-**Batch:** OFS-26-2
-**Author:** INDROJIT DHE SHAON
+- **Batch:** OFS-26-2
+- **Author:** INDROJIT DHE SHAON
 
 This repository contains my **speaking topics, practice scripts, and phonetics exercises** prepared during the **Online Spoken English and Phonetics** course.
 
